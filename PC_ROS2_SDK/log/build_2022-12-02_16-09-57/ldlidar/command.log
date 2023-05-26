@@ -1,4 +1,0 @@
-Invoking command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar -- -j8 -l8
-Invoked command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar -- -j8 -l8
-Invoking command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar
-Invoked command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar

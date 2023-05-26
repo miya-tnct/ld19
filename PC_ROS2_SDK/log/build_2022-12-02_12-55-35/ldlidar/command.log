@@ -1,2 +1,0 @@
-Invoking command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar': /usr/bin/cmake /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/src/ldlidar -DCMAKE_INSTALL_PREFIX=/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar
-Invoked command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar' returned '1': /usr/bin/cmake /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/src/ldlidar -DCMAKE_INSTALL_PREFIX=/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar

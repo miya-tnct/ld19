@@ -1,0 +1,4 @@
+[31mCMake Error at CMakeLists.txt:26 (find_library):
+  find_library called with incorrect number of arguments
+
+[0m

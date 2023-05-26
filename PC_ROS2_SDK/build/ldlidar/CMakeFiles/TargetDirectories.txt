@@ -1,0 +1,10 @@
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/uninstall.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/ldlidar_uninstall.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/ldlider.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/test.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/edit_cache.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/rebuild_cache.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/list_install_components.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/install.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/install/local.dir
+/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar/CMakeFiles/install/strip.dir

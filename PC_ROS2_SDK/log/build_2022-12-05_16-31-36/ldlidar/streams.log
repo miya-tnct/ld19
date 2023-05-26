@@ -1,0 +1,30 @@
+[0.017s] Invoking command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar -- -j8 -l8
+[0.080s] [35m[1mConsolidate compiler generated dependencies of target ldlider[0m
+[0.110s] [ 20%] [32mBuilding CXX object CMakeFiles/ldlider.dir/src/main.cpp.o[0m
+[2.483s] [01m[K/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/src/ldlidar/src/main.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[2.483s] [01m[K/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/src/ldlidar/src/main.cpp:65:43:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kunsigned int[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+[2.483s]    65 |                         for (int i = 0; [01;35m[Ki < lens[m[K; i++)
+[2.483s]       |                                         [01;35m[K~~^~~~~~[m[K
+[4.362s] [ 40%] [32m[1mLinking CXX executable ldlider[0m
+[4.581s] [100%] Built target ldlider
+[4.590s] Invoked command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar -- -j8 -l8
+[4.615s] Invoking command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar
+[4.623s] -- Install configuration: ""
+[4.623s] -- Installing: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/lib/ldlidar/ldlider
+[4.625s] -- Set runtime path of "/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/lib/ldlidar/ldlider" to ""
+[4.625s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ament_index/resource_index/package_run_dependencies/ldlidar
+[4.625s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ament_index/resource_index/parent_prefix_path/ldlidar
+[4.625s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/environment/ament_prefix_path.sh
+[4.625s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/environment/ament_prefix_path.dsv
+[4.625s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/environment/path.sh
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/environment/path.dsv
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/local_setup.bash
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/local_setup.sh
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/local_setup.zsh
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/local_setup.dsv
+[4.626s] -- Installing: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/package.dsv
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ament_index/resource_index/packages/ldlidar
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/cmake/ldlidarConfig.cmake
+[4.626s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/cmake/ldlidarConfig-version.cmake
+[4.627s] -- Up-to-date: /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/install/ldlidar/share/ldlidar/package.xml
+[4.628s] Invoked command in '/home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kiks/okdo_lidar/ld19/PC_ROS2_SDK/build/ldlidar
